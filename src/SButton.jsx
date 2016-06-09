@@ -1,3 +1,5 @@
+var React = require('react');
+
 var SButton = React.createClass({
 
     componentWillReceiveProps: function(nextProps) {
