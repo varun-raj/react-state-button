@@ -16,5 +16,12 @@
   "license": "MIT",
   "dependencies": {
     "react": "^15.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varun-raj/react-state-button.git"
+  },
+  "bugs": {
+    "url": "https://github.com/varun-raj/react-state-button/issues"
   }
 }
